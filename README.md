@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PanameraFLex Yeah name sounds black, but that's cos <bold> I'M B L A C K </bold>
+- 👋 Hi, I’m Chux, a passionate web developer from Lagos, Nigeria and I enjoy how undefeated the internet is.
 - 👀 I’m interested in Full Stack Web Dev
 - 🌱 I’m currently working on The Odin Project
 - 💞️ I’m looking to collaborate on Worthwhile projects
