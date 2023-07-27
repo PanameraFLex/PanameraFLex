@@ -13,3 +13,9 @@
 </div>
 </div>
  </div>
+ <p> 👨🏿‍💻 A LITTLE ABOUT ME AND MY INTERESTS </p>
+ ```yaml
+name: Monye Chukwuyem Martins
+location: Lagos, Nigeria
+current_job: Full Stack Developer
+```
