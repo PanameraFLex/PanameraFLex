@@ -5,7 +5,7 @@
 <p align="center">
 	<a href="https://linkedin.com/monye-chukwuyem"> <img alt=""  height="50" src="https://cdn1.iconfinder.com/data/icons/pen-sketch-icons-set/256/social_media_icons_pen_sketch_icons_set_256x256_0010_linkedin.png" /> </a>
 	<a href="https://twitter.com/gunzpapi"> <img alt=""  height="50" src="https://cdn0.iconfinder.com/data/icons/squarico/135/squarico-18-512.png"/> </a>
-	<a href="https://instagram.com/gunzpapi"> <img  height="50" alt="" src="https://cdn3.iconfinder.com/data/icons/remixicon-logos/24/instagram-fill-512.png"/> </a>
+	<a href="https://instagram.com/gunzpapi"> <img  height="50" alt="" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png"/> </a>
 </p>
 <p align="center" >
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXhjNWFjZ3Nla3VtdGN1dXJzMHd0OGJvaW9mb2F1d2I5aGNjOTkxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cMPdlbcUKl3xkMCyD3/giphy.gif"/>	
