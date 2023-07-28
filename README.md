@@ -3,7 +3,7 @@
 </p>
 <p align="center">Let's Connect 💭</p>
 <p align="center">
-	<a href="https://linkedin.com/monye-chukwuyem"> <img alt=""  height="50" src="https://cdn1.iconfinder.com/data/icons/pen-sketch-icons-set/256/social_media_icons_pen_sketch_icons_set_256x256_0010_linkedin.png" /> </a>
+	<a href="https://www.linkedin.com/in/chukwuyem-monye-660baaa4"> <img alt=""  height="50" src="https://cdn1.iconfinder.com/data/icons/pen-sketch-icons-set/256/social_media_icons_pen_sketch_icons_set_256x256_0010_linkedin.png" /> </a>
 	<a href="https://twitter.com/gunzpapi"> <img alt=""  height="50" src="https://cdn0.iconfinder.com/data/icons/squarico/135/squarico-18-512.png"/> </a>
 	<a href="https://instagram.com/gunzpapi"> <img  height="50" alt="" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png"/> </a>
 </p>
