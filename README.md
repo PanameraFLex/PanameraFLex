@@ -12,7 +12,7 @@
 </p>
 
 --- 
-<h2>👨🏿‍💻 A lITTLE ABOUT ME AND MY INTERETS</h2>
+<h2>👨🏿‍💻 A lITTLE ABOUT ME AND MY INTERESTS</h2>
 
 ```yaml
 name: Monye Chukwuyem
@@ -28,7 +28,7 @@ interests:
 	[
 		"Web Development",
 		"Artificial Intelligence",
-		"Cyber Security", 
+		"Logistics & Supply Chain Management", 
 		"Game Development",
 		"Dev Ops"
 	]
